@@ -1,0 +1,11 @@
+[package]
+name = "fh-core"
+version = "0.1.0"
+authors = ["Tim Eggert <tim@elbart.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+wasmer = "1.0.0-beta1"
+wasmer-runtime = "0.17.1"
